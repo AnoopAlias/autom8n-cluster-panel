@@ -4,17 +4,29 @@ StandAlone Autom8n WebOps control panel
 #Core Features
 
 Servers: 
+
 Apache httpd
+
 Nginx 
+
 gdnsd
+
 MariaDB
+
 MaxScale
+
 Redis
+
 Unison
+
 Csync2
+
 Netdata
+
 Firehol
+
 Borg/Borgmatic backups
+
 Vsftpd
 
 Deployed using Ansible 
